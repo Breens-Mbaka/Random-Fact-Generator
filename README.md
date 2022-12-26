@@ -4,7 +4,7 @@
 A Random Fact Generator app showing the use of Navigation Component in Jetpack Compose
 
 <p align="center">
-https://user-images.githubusercontent.com/72180010/209541687-c85044f1-d173-431c-9025-c4414c5a017b.gif
+<img src="https://user-images.githubusercontent.com/72180010/209541687-c85044f1-d173-431c-9025-c4414c5a017b.gif" width="280"/>
 </p>
 
 # Lessons learnt
